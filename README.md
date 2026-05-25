@@ -36,7 +36,7 @@ https://biki76.github.io/portfolio/
 portfolio/
 │
 ├── .github/workflows/
-│   └── jekyll-docker.yml
+│   └── deploy.yml
 │
 ├── assets/
 ├── css/
